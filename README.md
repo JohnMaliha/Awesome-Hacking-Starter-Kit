@@ -22,11 +22,13 @@
 * [Hack the Box](https://www.hackthebox.eu/)
 * [Microcorruption](https://microcorruption.com/login)
 * [Cryptohack](https://cryptohack.org/)
+* [Smash the stack](http://smashthestack.org/)
+* [XSS Games](https://xss-game.appspot.com/)
 
 ## Learning platforms
 * [TryHackMe](https://tryhackme.com/)
 * [PentesterLab](https://pentesterlab.com/)
-* [Web Security Academy by Portswigger](https://portswigger.net/web-security)
+* [Web Security Academy](https://portswigger.net/web-security)
 * [Pentester Academy](https://www.pentesteracademy.com/)
 
 ## Vulnerable Machines
@@ -65,6 +67,7 @@
 
 ## Github
 * [Awesome Hacking Resources](https://github.com/vitalysim/Awesome-Hacking-Resources)
+* [Awesome CTF](https://github.com/apsdehal/awesome-ctf)
 
 ## Reddit
 * r/securityCTF
@@ -77,9 +80,9 @@
 * r/hacking
 
 ## Books
-* Serious Cryptography (No startch Press, 2017)
+* Serious Cryptography (No starch Press, 2017)
 * Pentesting Azure Application (No Starch Press, 2018)
 * Black Hat Go (No Starch Press, 2019)
-* Gray Hat C# (No Startch Press, 2017)
-* Gray Hat Hacking: The Ethical Hacker's Handbook, Fifth Edition (McGraw-Hill)
-* The Hacker Playbook 3 (Peter Kim)
+* Gray Hat C# (No Starch Press, 2017)
+* Gray Hat Hacking: The Ethical Hacker's Handbook, Fifth Edition (McGraw-Hill, 2018)
+* The Hacker Playbook 3 (Peter Kim, 2018)
